@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Eric Kerkhoven]]></title>
+        <description><![CDATA[Eric Kerkhoven]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jan 2016 10:53:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi, my name is Eric Kerkhoven.  I'm a young and ambitious filmmaker from The Netherlands.My passion is to create 'out-of-this-world' experiences and intense stories through film.</p>]]></description>
+            <link>undefinedcdef48aa-2e5b-4871-a15d-cbf241c39b1c/index.html</link>
+            <guid isPermaLink="false">cdef48aa-2e5b-4871-a15d-cbf241c39b1c</guid>
+            <pubDate>Tue, 26 Jan 2016 10:53:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
