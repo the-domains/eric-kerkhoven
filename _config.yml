@@ -1,6 +1,6 @@
 name: Eric Kerkhoven
 favicon: null
-layout_spectrum: 0.19808
+layout_spectrum: 0.575
 typography_spectrum: 0.48492
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#515437'
     - '#787650'
   brandStrength: 0
-  lightness: 0.625
-  saturation: 0.3125
+  lightness: 0.75
+  saturation: 0.125
   rhythmicContrast: 0.75
 purpose: []
